@@ -3,7 +3,7 @@ const app = Vue.createApp({
         return {
             selected: null,
             pStyle: {
-                visibility: 'hidden'
+                visibility: 'visible'
             },
             pStyleSecond: {
                 background: '#eee'
